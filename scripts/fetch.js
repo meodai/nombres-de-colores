@@ -11,7 +11,7 @@ const rgbconv = converter('rgb');
 
 const pages = [
   {
-    name: 'influenz.design',
+    name: 'Wikipedia',
     sources: [
       'https://es.wikipedia.org/wiki/Anexo:Colores_por_orden_alfab%C3%A9tico',
     ],
