@@ -1,0 +1,29 @@
+{
+  "name": "nombres-de-colores",
+  "version": "0.1.0",
+  "description": "lista de nombres de colores en español.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node scripts/fetch.js && node scripts/createimage.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meodai/nombres-de-colores.git"
+  },
+  "keywords": [
+    "colores",
+    "nombres"
+  ],
+  "author": "meodai@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meodai/nombres-de-colores/issues"
+  },
+  "homepage": "https://github.com/meodai/nombres-de-colores#readme",
+  "devDependencies": {
+    "culori": "^3.3.0",
+    "puppeteer": "^21.5.2"
+  }
+}
