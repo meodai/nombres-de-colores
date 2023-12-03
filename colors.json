@@ -796,12 +796,18 @@
   },
   {
     "name": "Habano",
-    "link": "https://es.wikipedia.org/wiki/Marron_(color)#Otros_ejemplos_y_tipos_de_marrón"
+    "hex": "#844e34",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
   },
   {
     "name": "Herrumbre",
     "hex": "#a2522b",
     "link": "https://es.wikipedia.org/wiki/Herrumbre_(color)"
+  },
+  {
+    "name": "Hielo",
+    "hex": "#a2c8d4",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
   },
   {
     "name": "Hueso",
