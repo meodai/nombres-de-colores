@@ -8,6 +8,14 @@ const userColors = JSON.parse(
 
 const rgbconv = converter('rgb');
 
+// generated using chat gpt need help from a native speaker
+function toSpanishTitleCase(inputString) { 
+  const smallWords = /^(y|e|u|o|a|en|de|del|las|los|con)$/i;
+  return inputString.replace(/\b\p{L}+\b/gu, (word) =>
+    smallWords.test(word) ? word : word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
+  );
+}
+
 
 const pages = [
   {
@@ -83,10 +91,10 @@ userColors.forEach(color => {
   // data sanitization
   
   // title case each color name
-  /*
+  
   colors.forEach(c => {
-    c.name = titleCaseFrench.convert(c.name.replace(/’/g, "'").trim());
-  });*/
+    c.name = toSpanishTitleCase(c.name.replace(/’/g, "'").trim());
+  });
 
 
   // sanitize hex values and names

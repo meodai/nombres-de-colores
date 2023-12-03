@@ -50,9 +50,44 @@
     "link": "https://es.wikipedia.org/wiki/Amarillo"
   },
   {
+    "name": "Amarillo Azufre",
+    "hex": "#edff21",
+    "link": "https://es.wikipedia.org/wiki/Amarillo#Ejemplos_de_amarillos_y_colores_próximos"
+  },
+  {
+    "name": "Amarillo Cadmio",
+    "hex": "#fff600",
+    "link": "https://es.wikipedia.org/wiki/Amarillo_cadmio"
+  },
+  {
+    "name": "Amarillo Chino",
+    "hex": "#fada5e",
+    "link": "https://es.wikipedia.org/wiki/Amarillo#Ejemplos_de_amarillos_y_colores_próximos"
+  },
+  {
+    "name": "Amarillo Fluorescente",
+    "hex": "#ccff00",
+    "link": "https://es.wikipedia.org/wiki/Lima_(color)#Limas_o_verde-amarillos_espectrales"
+  },
+  {
     "name": "Amarillo Hansa",
     "hex": "#ffcd00",
     "link": "https://es.wikipedia.org/wiki/Amarillo_Hansa"
+  },
+  {
+    "name": "Amarillo Indio",
+    "hex": "#f39430",
+    "link": "https://es.wikipedia.org/wiki/Amarillo_indio"
+  },
+  {
+    "name": "Amarillo Monoazo",
+    "hex": "#ffeb00",
+    "link": "https://es.wikipedia.org/wiki/Amarillo_monoazo"
+  },
+  {
+    "name": "Amarillo Naranja",
+    "hex": "#fbba00",
+    "link": "https://es.wikipedia.org/wiki/Amarillo_naranja"
   },
   {
     "name": "Amarillo Nápoles",
@@ -60,69 +95,34 @@
     "link": "https://es.wikipedia.org/wiki/Amarillo_N%C3%A1poles"
   },
   {
-    "name": "Amarillo azufre",
-    "hex": "#edff21",
-    "link": "https://es.wikipedia.org/wiki/Amarillo#Ejemplos_de_amarillos_y_colores_próximos"
-  },
-  {
-    "name": "Amarillo cadmio",
-    "hex": "#fff600",
-    "link": "https://es.wikipedia.org/wiki/Amarillo_cadmio"
-  },
-  {
-    "name": "Amarillo chino",
-    "hex": "#fada5e",
-    "link": "https://es.wikipedia.org/wiki/Amarillo#Ejemplos_de_amarillos_y_colores_próximos"
-  },
-  {
-    "name": "Amarillo de cobalto",
-    "hex": "#ffbf08",
-    "link": "https://es.wikipedia.org/wiki/Amarillo_de_cobalto"
-  },
-  {
-    "name": "Amarillo de cromo",
-    "hex": "#ffcc0f",
-    "link": "https://es.wikipedia.org/wiki/Amarillo_de_cromo"
-  },
-  {
-    "name": "Amarillo fluorescente",
-    "hex": "#ccff00",
-    "link": "https://es.wikipedia.org/wiki/Lima_(color)#Limas_o_verde-amarillos_espectrales"
-  },
-  {
-    "name": "Amarillo indio",
-    "hex": "#f39430",
-    "link": "https://es.wikipedia.org/wiki/Amarillo_indio"
-  },
-  {
-    "name": "Amarillo monoazo",
-    "hex": "#ffeb00",
-    "link": "https://es.wikipedia.org/wiki/Amarillo_monoazo"
-  },
-  {
-    "name": "Amarillo naranja",
-    "hex": "#fbba00",
-    "link": "https://es.wikipedia.org/wiki/Amarillo_naranja"
-  },
-  {
-    "name": "Amarillo patito",
+    "name": "Amarillo Patito",
     "hex": "#fad201",
     "link": "https://es.wikipedia.org/wiki/Amarillo_tr%C3%A1fico"
   },
   {
-    "name": "Amarillo selectivo",
+    "name": "Amarillo Selectivo",
     "hex": "#ffba00",
     "link": "https://es.wikipedia.org/wiki/Amarillo_selectivo"
   },
   {
-    "name": "Amarillo tráfico",
+    "name": "Amarillo Tráfico",
     "hex": "#fbd302",
     "link": "https://es.wikipedia.org/wiki/Amarillo_tr%C3%A1fico"
   },
   {
-    "name": "Amarillo verdoso",
+    "name": "Amarillo Verdoso",
     "hex": "#ded700",
     "link": "https://es.wikipedia.org/wiki/Verde_amarillo#Comparación_con_colores_próximos"
+  },
+  {
+    "name": "Amarillo de Cobalto",
+    "hex": "#ffbf08",
+    "link": "https://es.wikipedia.org/wiki/Amarillo_de_cobalto"
+  },
+  {
+    "name": "Amarillo de Cromo",
+    "hex": "#ffcc0f",
+    "link": "https://es.wikipedia.org/wiki/Amarillo_de_cromo"
   },
   {
     "name": "Amatista",
@@ -185,9 +185,39 @@
     "link": "https://es.wikipedia.org/wiki/Azul"
   },
   {
+    "name": "Azul Acero",
+    "hex": "#4682b4",
+    "link": "https://es.wikipedia.org/wiki/Azul_acero"
+  },
+  {
+    "name": "Azul Aciano",
+    "hex": "#8f97cb",
+    "link": "https://es.wikipedia.org/wiki/Azul_aciano"
+  },
+  {
     "name": "Azul Alicia",
     "hex": "#91a3b0",
     "link": "https://es.wikipedia.org/wiki/Azul_Alicia"
+  },
+  {
+    "name": "Azul Bebé o Azul Celeste",
+    "hex": "#89cff0",
+    "link": "https://es.wikipedia.org/wiki/Celeste_(color)#Variedades_de_celeste"
+  },
+  {
+    "name": "Azul Cerúleo",
+    "hex": "#0067a5",
+    "link": "https://es.wikipedia.org/wiki/Cer%C3%BAleo#Variedad"
+  },
+  {
+    "name": "Azul Cian",
+    "hex": "#00a0e3",
+    "link": "https://es.wikipedia.org/wiki/Cian_(color)#Cian_sustractivo_(color_primario)"
+  },
+  {
+    "name": "Azul Cobalto",
+    "hex": "#3f448c",
+    "link": "https://es.wikipedia.org/wiki/Azul_cobalto"
   },
   {
     "name": "Azul Columbia",
@@ -195,9 +225,34 @@
     "link": "https://es.wikipedia.org/wiki/Azul_Columbia"
   },
   {
+    "name": "Azul Egipcio",
+    "hex": "#1034a6",
+    "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules"
+  },
+  {
+    "name": "Azul Eléctrico",
+    "hex": "#1630be",
+    "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules"
+  },
+  {
     "name": "Azul Eton",
     "hex": "#96c8a2",
     "link": "https://es.wikipedia.org/wiki/Azul_Eton"
+  },
+  {
+    "name": "Azul Ftalo",
+    "hex": "#000f89",
+    "link": "https://es.wikipedia.org/wiki/Ftalocianina"
+  },
+  {
+    "name": "Azul Glauco",
+    "hex": "#007e8b",
+    "link": "https://es.wikipedia.org/wiki/Turquesa_(color)#Turquesa_pictórico"
+  },
+  {
+    "name": "Azul Horizonte",
+    "hex": "#7ca2b8",
+    "link": "https://es.wikipedia.org/wiki/Azul_horizonte"
   },
   {
     "name": "Azul Klein",
@@ -205,9 +260,54 @@
     "link": "https://es.wikipedia.org/wiki/Azul_Klein"
   },
   {
+    "name": "Azul Lavanda",
+    "hex": "#8c92ac",
+    "link": "https://es.wikipedia.org/wiki/B%C3%ADgaro_(color)#Coloraciones_similares"
+  },
+  {
+    "name": "Azul Lino o Azulino",
+    "hex": "#6c79b8",
+    "link": "https://es.wikipedia.org/wiki/B%C3%ADgaro_(color)#Coloraciones_similares"
+  },
+  {
     "name": "Azul Majorelle",
     "hex": "#5564eb",
     "link": "https://es.wikipedia.org/wiki/Azul_Majorelle"
+  },
+  {
+    "name": "Azul Marino",
+    "hex": "#00304e",
+    "link": "https://es.wikipedia.org/wiki/Azul_marino"
+  },
+  {
+    "name": "Azul Maya",
+    "hex": "#73c2fb",
+    "link": "https://es.wikipedia.org/wiki/Azul_maya"
+  },
+  {
+    "name": "Azul Medianoche",
+    "hex": "#2a2a46",
+    "link": "https://es.wikipedia.org/wiki/Azul_marino#Variedad_de_azules_oscuros"
+  },
+  {
+    "name": "Azul Monastral",
+    "hex": "#01108a",
+    "link": "https://es.wikipedia.org/wiki/Ftalocianina"
+  },
+  {
+    "name": "Azul Persa",
+    "hex": "#1c39bb",
+    "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules"
+  },
+  {
+    "name": "Azul Púrpura",
+    "hex": "#4c2882",
+    "link": "https://es.wikipedia.org/wiki/Azul_p%C3%BArpura"
+  },
+  {
+    "name": "Azul Real",
+    "hex": "#00416a",
+    "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules"
   },
   {
     "name": "Azul Tiffany",
@@ -215,129 +315,29 @@
     "link": "https://es.wikipedia.org/wiki/Azul_Tiffany"
   },
   {
-    "name": "Azul acero",
-    "hex": "#4682b4",
-    "link": "https://es.wikipedia.org/wiki/Azul_acero"
+    "name": "Azul Turquesa",
+    "hex": "#55b4b0",
+    "link": "https://es.wikipedia.org/wiki/Turquesa_(color)#Ejemplos_de_coloraciones_turquesas"
   },
   {
-    "name": "Azul aciano",
-    "hex": "#8f97cb",
-    "link": "https://es.wikipedia.org/wiki/Azul_aciano"
+    "name": "Azul Ultramar",
+    "hex": "#4273b8",
+    "link": "https://es.wikipedia.org/wiki/Azul_ultramar"
   },
   {
-    "name": "Azul bebé o azul celeste",
-    "hex": "#89cff0",
-    "link": "https://es.wikipedia.org/wiki/Celeste_(color)#Variedades_de_celeste"
+    "name": "Azul Verde",
+    "hex": "#009b94",
+    "link": "https://es.wikipedia.org/wiki/Azul_verde"
   },
   {
-    "name": "Azul cerúleo",
-    "hex": "#0067a5",
-    "link": "https://es.wikipedia.org/wiki/Cer%C3%BAleo#Variedad"
-  },
-  {
-    "name": "Azul cian",
-    "hex": "#00a0e3",
-    "link": "https://es.wikipedia.org/wiki/Cian_(color)#Cian_sustractivo_(color_primario)"
-  },
-  {
-    "name": "Azul cobalto",
-    "hex": "#3f448c",
-    "link": "https://es.wikipedia.org/wiki/Azul_cobalto"
+    "name": "Azul Violeta",
+    "hex": "#8a2be2",
+    "link": "https://es.wikipedia.org/wiki/Violeta_(color)#Colores_web_violetas_y_violáceos"
   },
   {
     "name": "Azul de Prusia",
     "hex": "#033e72",
     "link": "https://es.wikipedia.org/wiki/Azul_de_Prusia"
-  },
-  {
-    "name": "Azul egipcio",
-    "hex": "#1034a6",
-    "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules"
-  },
-  {
-    "name": "Azul eléctrico",
-    "hex": "#1630be",
-    "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules"
-  },
-  {
-    "name": "Azul ftalo",
-    "hex": "#000f89",
-    "link": "https://es.wikipedia.org/wiki/Ftalocianina"
-  },
-  {
-    "name": "Azul glauco",
-    "hex": "#007e8b",
-    "link": "https://es.wikipedia.org/wiki/Turquesa_(color)#Turquesa_pictórico"
-  },
-  {
-    "name": "Azul horizonte",
-    "hex": "#7ca2b8",
-    "link": "https://es.wikipedia.org/wiki/Azul_horizonte"
-  },
-  {
-    "name": "Azul lavanda",
-    "hex": "#8c92ac",
-    "link": "https://es.wikipedia.org/wiki/B%C3%ADgaro_(color)#Coloraciones_similares"
-  },
-  {
-    "name": "Azul lino o Azulino",
-    "hex": "#6c79b8",
-    "link": "https://es.wikipedia.org/wiki/B%C3%ADgaro_(color)#Coloraciones_similares"
-  },
-  {
-    "name": "Azul marino",
-    "hex": "#00304e",
-    "link": "https://es.wikipedia.org/wiki/Azul_marino"
-  },
-  {
-    "name": "Azul maya",
-    "hex": "#73c2fb",
-    "link": "https://es.wikipedia.org/wiki/Azul_maya"
-  },
-  {
-    "name": "Azul medianoche",
-    "hex": "#2a2a46",
-    "link": "https://es.wikipedia.org/wiki/Azul_marino#Variedad_de_azules_oscuros"
-  },
-  {
-    "name": "Azul monastral",
-    "hex": "#01108a",
-    "link": "https://es.wikipedia.org/wiki/Ftalocianina"
-  },
-  {
-    "name": "Azul persa",
-    "hex": "#1c39bb",
-    "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules"
-  },
-  {
-    "name": "Azul púrpura",
-    "hex": "#4c2882",
-    "link": "https://es.wikipedia.org/wiki/Azul_p%C3%BArpura"
-  },
-  {
-    "name": "Azul real",
-    "hex": "#00416a",
-    "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules"
-  },
-  {
-    "name": "Azul turquesa",
-    "hex": "#55b4b0",
-    "link": "https://es.wikipedia.org/wiki/Turquesa_(color)#Ejemplos_de_coloraciones_turquesas"
-  },
-  {
-    "name": "Azul ultramar",
-    "hex": "#4273b8",
-    "link": "https://es.wikipedia.org/wiki/Azul_ultramar"
-  },
-  {
-    "name": "Azul verde",
-    "hex": "#009b94",
-    "link": "https://es.wikipedia.org/wiki/Azul_verde"
-  },
-  {
-    "name": "Azul violeta",
-    "hex": "#8a2be2",
-    "link": "https://es.wikipedia.org/wiki/Violeta_(color)#Colores_web_violetas_y_violáceos"
   },
   {
     "name": "Azur",
@@ -365,7 +365,7 @@
     "link": "https://es.wikipedia.org/wiki/Coral_(color)#Otras_muestras_coralinas"
   },
   {
-    "name": "Beige o beis",
+    "name": "Beige o Beis",
     "hex": "#e8c39e",
     "link": "https://es.wikipedia.org/wiki/Beige"
   },
@@ -390,7 +390,7 @@
     "link": "https://es.wikipedia.org/wiki/Bistre"
   },
   {
-    "name": "Bistre marrón",
+    "name": "Bistre Marrón",
     "hex": "#967117",
     "link": "https://es.wikipedia.org/wiki/Bistre#El_bistre_como_color"
   },
@@ -400,19 +400,19 @@
     "link": "https://es.wikipedia.org/wiki/Blanco"
   },
   {
-    "name": "Blanco de zinc/cinc",
-    "hex": "#fafbfd",
-    "link": "https://es.wikipedia.org/wiki/Blanco_de_cinc"
-  },
-  {
-    "name": "Blanco humo",
+    "name": "Blanco Humo",
     "hex": "#b4bcc0",
     "link": "https://es.wikipedia.org/wiki/Gris#Muestras_grises"
   },
   {
-    "name": "Blanco navajo",
+    "name": "Blanco Navajo",
     "hex": "#ebe1c9",
     "link": "https://es.wikipedia.org/wiki/Blanco_navajo"
+  },
+  {
+    "name": "Blanco de Zinc/Cinc",
+    "hex": "#fafbfd",
+    "link": "https://es.wikipedia.org/wiki/Blanco_de_cinc"
   },
   {
     "name": "Borgoña",
@@ -435,7 +435,7 @@
     "link": "https://es.wikipedia.org/wiki/Bronceado_(color)"
   },
   {
-    "name": "Burdeos o bordó",
+    "name": "Burdeos o Bordó",
     "hex": "#96305a",
     "link": "https://es.wikipedia.org/wiki/Burdeos_(color)"
   },
@@ -450,7 +450,7 @@
     "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n#Café"
   },
   {
-    "name": "Café con leche cósmico",
+    "name": "Café con Leche Cósmico",
     "hex": "#fff8e7",
     "link": "https://es.wikipedia.org/wiki/Caf%C3%A9_con_leche_c%C3%B3smico"
   },
@@ -520,12 +520,12 @@
     "link": "https://es.wikipedia.org/wiki/Carm%C3%ADn"
   },
   {
-    "name": "Carmín alizarina",
+    "name": "Carmín Alizarina",
     "hex": "#860919",
     "link": "https://es.wikipedia.org/wiki/Carm%C3%ADn_de_alizarina"
   },
   {
-    "name": "Carne o carnación",
+    "name": "Carne o Carnación",
     "hex": "#fcd0b4",
     "link": "https://es.wikipedia.org/wiki/Carne_(color)"
   },
@@ -535,7 +535,7 @@
     "link": "https://es.wikipedia.org/wiki/Chartreuse_(color)#Variedad"
   },
   {
-    "name": "Castaña o castaño",
+    "name": "Castaña o Castaño",
     "hex": "#954535",
     "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n#Castaño_y_castaña"
   },
@@ -600,7 +600,7 @@
     "link": "https://es.wikipedia.org/wiki/P%C3%BArpura#Muestras"
   },
   {
-    "name": "Cobre o cobrizo",
+    "name": "Cobre o Cobrizo",
     "hex": "#cb6d51",
     "link": "https://es.wikipedia.org/wiki/Cobre_(color)"
   },
@@ -665,7 +665,7 @@
     "link": "https://es.wikipedia.org/wiki/Gris#Muestras_grises"
   },
   {
-    "name": "Encaje antiguo",
+    "name": "Encaje Antiguo",
     "hex": "#fdf5e6",
     "link": "https://es.wikipedia.org/wiki/Encaje_antiguo"
   },
@@ -740,24 +740,29 @@
     "link": "https://es.wikipedia.org/wiki/Gris"
   },
   {
-    "name": "Gris acorazado",
+    "name": "Gris Acorazado",
     "hex": "#848482",
     "link": "https://es.wikipedia.org/wiki/Gris_acorazado"
   },
   {
-    "name": "Gris antracita",
+    "name": "Gris Antracita",
     "hex": "#393f43",
     "link": "https://es.wikipedia.org/wiki/Gris#Muestras_grises"
   },
   {
-    "name": "Gris cadete",
+    "name": "Gris Cadete",
     "hex": "#81878b",
     "link": "https://es.wikipedia.org/wiki/Gris_cadete"
   },
   {
-    "name": "Gris ceniza",
+    "name": "Gris Ceniza",
     "hex": "#cecece",
     "link": "https://es.wikipedia.org/wiki/Gris_ceniza"
+  },
+  {
+    "name": "Gris Frío",
+    "hex": "#496063",
+    "link": "https://es.wikipedia.org/wiki/Gris_fr%C3%ADo"
   },
   {
     "name": "Gris de Davy",
@@ -770,12 +775,7 @@
     "link": "https://es.wikipedia.org/wiki/Gris_de_Payne"
   },
   {
-    "name": "Gris frío",
-    "hex": "#496063",
-    "link": "https://es.wikipedia.org/wiki/Gris_fr%C3%ADo"
-  },
-  {
-    "name": "Gualda o gualdo",
+    "name": "Gualda o Gualdo",
     "hex": "#fabd00",
     "link": "https://es.wikipedia.org/wiki/Oro_(color)#Coloraciones_doradas"
   },
@@ -790,7 +790,7 @@
     "link": "https://es.wikipedia.org/wiki/Esmalte_(her%C3%A1ldica)#Códigos_de_color_RGB_y_CYMK"
   },
   {
-    "name": "Guta o gutagamba",
+    "name": "Guta o Gutagamba",
     "hex": "#e49b0f",
     "link": "https://es.wikipedia.org/wiki/Gutagamba"
   },
@@ -860,7 +860,7 @@
     "link": "https://es.wikipedia.org/wiki/Lava_(color)#Colores_«lava»_negruzcos:_lava_solidificada"
   },
   {
-    "name": "Lava fundida",
+    "name": "Lava Fundida",
     "hex": "#b82928",
     "link": "https://es.wikipedia.org/wiki/Lava_(color)"
   },
@@ -870,7 +870,7 @@
     "link": "https://es.wikipedia.org/wiki/Lavanda_(color)"
   },
   {
-    "name": "León o leonado",
+    "name": "León o Leonado",
     "hex": "#c49d6e",
     "link": "https://es.wikipedia.org/wiki/Le%C3%B3n_(color)"
   },
@@ -885,7 +885,7 @@
     "link": "https://es.wikipedia.org/wiki/Lima_(color)"
   },
   {
-    "name": "Lima-limón",
+    "name": "Lima-Limón",
     "hex": "#e3ff00",
     "link": "https://es.wikipedia.org/wiki/Lima_(color)#Lima_o_verde-amarillos_espectrales"
   },
@@ -955,12 +955,12 @@
     "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n"
   },
   {
-    "name": "Marrón cuero",
+    "name": "Marrón Cuero",
     "hex": "#97572b",
     "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n#Otros_ejemplos_y_tipos_de_marrón"
   },
   {
-    "name": "Marrón dorado",
+    "name": "Marrón Dorado",
     "hex": "#996515",
     "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n#Otros_ejemplos_y_tipos_de_marrón"
   },
@@ -1015,24 +1015,24 @@
     "link": "https://es.wikipedia.org/wiki/Naranja_(color)"
   },
   {
-    "name": "Naranja cadmio",
+    "name": "Naranja Cadmio",
     "hex": "#ee882e",
     "link": "https://es.wikipedia.org/wiki/Naranja_(color)#Ejemplos_de_colores_anaranjados"
   },
   {
-    "name": "Naranja caqui",
+    "name": "Naranja Caqui",
     "hex": "#f38d3c",
     "link": "https://es.wikipedia.org/wiki/Caqui_(color)#Naranja_caqui"
   },
   {
-    "name": "Naranja de portland",
-    "hex": "#ff5a36",
-    "link": "https://es.wikipedia.org/wiki/Naranja_de_portland"
-  },
-  {
-    "name": "Naranja persa",
+    "name": "Naranja Persa",
     "hex": "#d99058",
     "link": "https://es.wikipedia.org/wiki/Naranja_persa"
+  },
+  {
+    "name": "Naranja de Portland",
+    "hex": "#ff5a36",
+    "link": "https://es.wikipedia.org/wiki/Naranja_de_portland"
   },
   {
     "name": "Negro",
@@ -1040,12 +1040,12 @@
     "link": "https://es.wikipedia.org/wiki/Negro_(color)"
   },
   {
-    "name": "Negro bujía",
+    "name": "Negro Bujía",
     "hex": "#2a3223",
     "link": "https://es.wikipedia.org/wiki/Negro_de_humo#Negro_bujía"
   },
   {
-    "name": "Negro de humo",
+    "name": "Negro de Humo",
     "hex": "#382212",
     "link": "https://es.wikipedia.org/wiki/Negro_de_humo"
   },
@@ -1070,22 +1070,22 @@
     "link": "https://es.wikipedia.org/wiki/Ocre#El_color_ocre"
   },
   {
-    "name": "Ocre amarillo",
+    "name": "Ocre Amarillo",
     "hex": "#d9ad2a",
     "link": "https://es.wikipedia.org/wiki/Ocre#Ocres_de_uso_artístico"
   },
   {
-    "name": "Ocre dorado",
+    "name": "Ocre Dorado",
     "hex": "#c97e28",
     "link": "https://es.wikipedia.org/wiki/Ocre#Ocre_dorado"
   },
   {
-    "name": "Ocre pardo",
+    "name": "Ocre Pardo",
     "hex": "#5f3f3e",
     "link": "https://es.wikipedia.org/wiki/Ocre#Ocre_pardo"
   },
   {
-    "name": "Ocre rojo",
+    "name": "Ocre Rojo",
     "hex": "#823a3f",
     "link": "https://es.wikipedia.org/wiki/Ocre#Ocre_rojo_tostado"
   },
@@ -1100,7 +1100,7 @@
     "link": "https://es.wikipedia.org/wiki/Oro_(color)"
   },
   {
-    "name": "Oro viejo",
+    "name": "Oro Viejo",
     "hex": "#cfb53b",
     "link": "https://es.wikipedia.org/wiki/Oro_(color)#Coloraciones_doradas"
   },
@@ -1110,12 +1110,12 @@
     "link": "https://es.wikipedia.org/wiki/Malva_(color)#Colores_web"
   },
   {
-    "name": "Palo rosa",
+    "name": "Palo Rosa",
     "hex": "#dd969c",
     "link": "https://es.wikipedia.org/wiki/Rosa_(color)#Ejemplos_del_color_rosado"
   },
   {
-    "name": "Palta o aguacate",
+    "name": "Palta o Aguacate",
     "hex": "#578304",
     "link": "https://es.wikipedia.org/wiki/Verde_amarillo#Otros_ejemplos_verde-amarillos"
   },
@@ -1150,7 +1150,7 @@
     "link": "https://es.wikipedia.org/wiki/Pizarra_(color)"
   },
   {
-    "name": "Plata o plateado",
+    "name": "Plata o Plateado",
     "hex": "#c0c0c0",
     "link": "https://es.wikipedia.org/wiki/Plata_(color)"
   },
@@ -1195,19 +1195,19 @@
     "link": "https://es.wikipedia.org/wiki/P%C3%BArpura"
   },
   {
-    "name": "Púrpura de Tiro",
-    "hex": "#7b236d",
-    "link": "https://es.wikipedia.org/wiki/P%C3%BArpura_de_Tiro"
-  },
-  {
-    "name": "Púrpura eléctrico",
+    "name": "Púrpura Eléctrico",
     "hex": "#cc00ff",
     "link": "https://es.wikipedia.org/wiki/P%C3%BArpura#Púrpura_espectral"
   },
   {
-    "name": "Púrpura francés",
+    "name": "Púrpura Francés",
     "hex": "#9e0e40",
     "link": "https://es.wikipedia.org/wiki/P%C3%BArpura#Púrpura_en_francés"
+  },
+  {
+    "name": "Púrpura de Tiro",
+    "hex": "#7b236d",
+    "link": "https://es.wikipedia.org/wiki/P%C3%BArpura_de_Tiro"
   },
   {
     "name": "Quercitrón",
@@ -1225,6 +1225,16 @@
     "link": "https://es.wikipedia.org/wiki/Rojo"
   },
   {
+    "name": "Rojo Anaranjado",
+    "hex": "#ea4613",
+    "link": "https://es.wikipedia.org/wiki/Rojo_anaranjado"
+  },
+  {
+    "name": "Rojo Coral",
+    "hex": "#ea453f",
+    "link": "https://es.wikipedia.org/wiki/Coral_(color)"
+  },
+  {
     "name": "Rojo Falun",
     "hex": "#a54332",
     "link": "https://es.wikipedia.org/wiki/Rojo_de_Falun"
@@ -1235,79 +1245,89 @@
     "link": "https://es.wikipedia.org/wiki/Rojo_Ferrari"
   },
   {
+    "name": "Rojo Fucsia",
+    "hex": "#ff005a",
+    "link": "https://es.wikipedia.org/wiki/Fucsia"
+  },
+  {
+    "name": "Rojo Indio",
+    "hex": "#882d17",
+    "link": "https://es.wikipedia.org/wiki/Rojo_indio"
+  },
+  {
+    "name": "Rojo Magenta",
+    "hex": "#e5097f",
+    "link": "https://es.wikipedia.org/wiki/Magenta#Magenta_sustractivo_(color_primario)"
+  },
+  {
+    "name": "Rojo Neón",
+    "hex": "#fe575f",
+    "link": "https://es.wikipedia.org/wiki/Rojo#Ejemplos_de_coloraciones_rojas"
+  },
+  {
+    "name": "Rojo Periodo",
+    "hex": "#9c0002",
+    "link": "https://es.wikipedia.org/wiki/Rojo#Ejemplos_de_coloraciones_rojas"
+  },
+  {
+    "name": "Rojo Persa",
+    "hex": "#cb1d11",
+    "link": "https://es.wikipedia.org/wiki/Rojo_persa"
+  },
+  {
+    "name": "Rojo Púrpura",
+    "hex": "#b21154",
+    "link": "https://es.wikipedia.org/wiki/Rojo_p%C3%BArpura"
+  },
+  {
+    "name": "Rojo Sangre",
+    "hex": "#9c0001",
+    "link": "https://es.wikipedia.org/wiki/Rojo#Ejemplos_de_coloraciones_rojas"
+  },
+  {
+    "name": "Rojo Toscano",
+    "hex": "#79443b",
+    "link": "https://es.wikipedia.org/wiki/Rojo_toscano"
+  },
+  {
     "name": "Rojo Upsdell",
     "hex": "#ae2029",
     "link": "https://es.wikipedia.org/wiki/Rojo_Upsdell"
   },
   {
-    "name": "Rojo anaranjado",
-    "hex": "#ea4613",
-    "link": "https://es.wikipedia.org/wiki/Rojo_anaranjado"
-  },
-  {
-    "name": "Rojo coral",
-    "hex": "#ea453f",
-    "link": "https://es.wikipedia.org/wiki/Coral_(color)"
-  },
-  {
-    "name": "Rojo fucsia",
-    "hex": "#ff005a",
-    "link": "https://es.wikipedia.org/wiki/Fucsia"
-  },
-  {
-    "name": "Rojo indio",
-    "hex": "#882d17",
-    "link": "https://es.wikipedia.org/wiki/Rojo_indio"
-  },
-  {
-    "name": "Rojo magenta",
-    "hex": "#e5097f",
-    "link": "https://es.wikipedia.org/wiki/Magenta#Magenta_sustractivo_(color_primario)"
-  },
-  {
-    "name": "Rojo neón",
-    "hex": "#fe575f",
-    "link": "https://es.wikipedia.org/wiki/Rojo#Ejemplos_de_coloraciones_rojas"
-  },
-  {
-    "name": "Rojo periodo",
-    "hex": "#9c0002",
-    "link": "https://es.wikipedia.org/wiki/Rojo#Ejemplos_de_coloraciones_rojas"
-  },
-  {
-    "name": "Rojo persa",
-    "hex": "#cb1d11",
-    "link": "https://es.wikipedia.org/wiki/Rojo_persa"
-  },
-  {
-    "name": "Rojo púrpura",
-    "hex": "#b21154",
-    "link": "https://es.wikipedia.org/wiki/Rojo_p%C3%BArpura"
-  },
-  {
-    "name": "Rojo sangre",
-    "hex": "#9c0001",
-    "link": "https://es.wikipedia.org/wiki/Rojo#Ejemplos_de_coloraciones_rojas"
-  },
-  {
-    "name": "Rojo toscano",
-    "hex": "#79443b",
-    "link": "https://es.wikipedia.org/wiki/Rojo_toscano"
-  },
-  {
-    "name": "Rojo veneciano",
+    "name": "Rojo Veneciano",
     "hex": "#6e433c",
     "link": "https://es.wikipedia.org/wiki/Rojo_veneciano"
   },
   {
-    "name": "Rojo violeta",
+    "name": "Rojo Violeta",
     "hex": "#c71585",
     "link": "https://es.wikipedia.org/wiki/Rojo_p%C3%BArpura#Colores_web"
   },
   {
-    "name": "Rojo óxido",
+    "name": "Rojo óXido",
     "hex": "#aa5b56",
     "link": "https://es.wikipedia.org/wiki/Rojo_indio#Rojo_indio_y_otros_pigmentos_basados_en_el_óxido_de_fierro"
+  },
+  {
+    "name": "Rosa Coral",
+    "hex": "#f88379",
+    "link": "https://es.wikipedia.org/wiki/Coral_(color)#Rosa_coral"
+  },
+  {
+    "name": "Rosa Lavanda",
+    "hex": "#e8ccd7",
+    "link": "https://es.wikipedia.org/wiki/Rosa_(color)#Ejemplos_del_color_rosado"
+  },
+  {
+    "name": "Rosa Malva",
+    "hex": "#d597ae",
+    "link": "https://es.wikipedia.org/wiki/Rosa_(color)#Ejemplos_del_color_rosado"
+  },
+  {
+    "name": "Rosa Mexicano",
+    "hex": "#f50087",
+    "link": "https://es.wikipedia.org/wiki/Rosa_mexicano"
   },
   {
     "name": "Rosa Mountbatten",
@@ -1315,39 +1335,19 @@
     "link": "https://es.wikipedia.org/wiki/Rosa_Mountbatten"
   },
   {
-    "name": "Rosa coral",
-    "hex": "#f88379",
-    "link": "https://es.wikipedia.org/wiki/Coral_(color)#Rosa_coral"
-  },
-  {
-    "name": "Rosa lavanda",
-    "hex": "#e8ccd7",
-    "link": "https://es.wikipedia.org/wiki/Rosa_(color)#Ejemplos_del_color_rosado"
-  },
-  {
-    "name": "Rosa malva",
-    "hex": "#d597ae",
-    "link": "https://es.wikipedia.org/wiki/Rosa_(color)#Ejemplos_del_color_rosado"
-  },
-  {
-    "name": "Rosa mexicano",
-    "hex": "#f50087",
-    "link": "https://es.wikipedia.org/wiki/Rosa_mexicano"
-  },
-  {
-    "name": "Rosa naranja",
+    "name": "Rosa Naranja",
     "hex": "#ff9966",
     "link": "https://es.wikipedia.org/wiki/Rosa_naranja"
   },
   {
-    "name": "Rosa o rosado",
-    "hex": "#ffc0cb",
-    "link": "https://es.wikipedia.org/wiki/Rosa_(color)"
-  },
-  {
-    "name": "Rosa shocking",
+    "name": "Rosa Shocking",
     "hex": "#fc0fc0",
     "link": "https://es.wikipedia.org/wiki/Rosa_shocking"
+  },
+  {
+    "name": "Rosa o Rosado",
+    "hex": "#ffc0cb",
+    "link": "https://es.wikipedia.org/wiki/Rosa_(color)"
   },
   {
     "name": "Rubí",
@@ -1395,7 +1395,7 @@
     "link": "https://es.wikipedia.org/wiki/Siena_(color)"
   },
   {
-    "name": "Siena tostada",
+    "name": "Siena Tostada",
     "hex": "#892e18",
     "link": "https://es.wikipedia.org/wiki/Siena_(color)#Siena_tostada"
   },
@@ -1415,7 +1415,7 @@
     "link": "https://es.wikipedia.org/wiki/Tomate_(color)"
   },
   {
-    "name": "Torcaza o topo",
+    "name": "Torcaza o Topo",
     "hex": "#87794e",
     "link": "https://es.wikipedia.org/wiki/Gris#Muestras_grises"
   },
@@ -1440,7 +1440,7 @@
     "link": "https://es.wikipedia.org/wiki/Turqu%C3%AD"
   },
   {
-    "name": "Té verde",
+    "name": "Té Verde",
     "hex": "#cffdaf",
     "link": "https://es.wikipedia.org/wiki/Verde_amarillo#Otros_ejemplos_verde-amarillos"
   },
@@ -1455,9 +1455,119 @@
     "link": "https://es.wikipedia.org/wiki/Verde"
   },
   {
+    "name": "Verde Agua",
+    "hex": "#87e79e",
+    "link": "https://es.wikipedia.org/wiki/Verde#Otros_verdes_azulados"
+  },
+  {
+    "name": "Verde Amarillo",
+    "hex": "#c6ce00",
+    "link": "https://es.wikipedia.org/wiki/Verde_amarillo"
+  },
+  {
+    "name": "Verde Azulado",
+    "hex": "#009a79",
+    "link": "https://es.wikipedia.org/wiki/Azul_verde#Comparación_con_colores_próximos"
+  },
+  {
+    "name": "Verde Bosque",
+    "hex": "#228b22",
+    "link": "https://es.wikipedia.org/wiki/Verde_bosque"
+  },
+  {
+    "name": "Verde Botella",
+    "hex": "#1b4d3e",
+    "link": "https://es.wikipedia.org/wiki/Verde#Otros_verdes_azulados"
+  },
+  {
+    "name": "Verde Británico de Carreras",
+    "hex": "#004225",
+    "link": "https://es.wikipedia.org/wiki/British_racing_green"
+  },
+  {
+    "name": "Verde Ceniza",
+    "hex": "#5f7f7a",
+    "link": "https://es.wikipedia.org/wiki/Verde_ceniza"
+  },
+  {
+    "name": "Verde Cian",
+    "hex": "#00ff99",
+    "link": "https://es.wikipedia.org/wiki/Verde_cian"
+  },
+  {
+    "name": "Verde Claro",
+    "hex": "#98ff98",
+    "link": "https://es.wikipedia.org/wiki/Verde#Otros"
+  },
+  {
+    "name": "Verde Esmeralda",
+    "hex": "#019a76",
+    "link": "https://es.wikipedia.org/wiki/Verde_esmeralda"
+  },
+  {
+    "name": "Verde Ftalo",
+    "hex": "#0f4f41",
+    "link": "https://es.wikipedia.org/wiki/Ftalocianina"
+  },
+  {
     "name": "Verde Hooker",
     "hex": "#44944a",
     "link": "https://es.wikipedia.org/wiki/Verde_Hooker"
+  },
+  {
+    "name": "Verde Limón",
+    "hex": "#c0fe01",
+    "link": "https://es.wikipedia.org/wiki/Lima_(color)"
+  },
+  {
+    "name": "Verde Loro",
+    "hex": "#52b830",
+    "link": "https://es.wikipedia.org/wiki/Verde#Otros"
+  },
+  {
+    "name": "Verde Manzana",
+    "hex": "#8db600",
+    "link": "https://es.wikipedia.org/wiki/Verde_amarillo#Otros_ejemplos_verde-amarillos"
+  },
+  {
+    "name": "Verde Mar",
+    "hex": "#2e8b57",
+    "link": "https://es.wikipedia.org/wiki/Verde#Verdes_azulados"
+  },
+  {
+    "name": "Verde Menta",
+    "hex": "#9bfad0",
+    "link": "https://es.wikipedia.org/wiki/Verde_menta"
+  },
+  {
+    "name": "Verde Militar",
+    "hex": "#86895d",
+    "link": "https://es.wikipedia.org/wiki/Verde_oliva"
+  },
+  {
+    "name": "Verde Oliva",
+    "hex": "#9b933b",
+    "link": "https://es.wikipedia.org/wiki/Verde_oliva#Ejemplos_y_colores_relacionados"
+  },
+  {
+    "name": "Verde Oscuro",
+    "hex": "#006400",
+    "link": "https://es.wikipedia.org/wiki/Verde#Otros"
+  },
+  {
+    "name": "Verde Petróleo",
+    "hex": "#173f35",
+    "link": "https://es.wikipedia.org/wiki/Verde#Otros_verdes_azulados"
+  },
+  {
+    "name": "Verde Primavera",
+    "hex": "#00ff7f",
+    "link": "https://es.wikipedia.org/wiki/Verde_primavera"
+  },
+  {
+    "name": "Verde Turquesa",
+    "hex": "#49b675",
+    "link": "https://es.wikipedia.org/wiki/Turquesa_(color)#Ejemplos_de_coloraciones_turquesas"
   },
   {
     "name": "Verde Veronese o Veronés",
@@ -1465,127 +1575,17 @@
     "link": "https://es.wikipedia.org/wiki/Verde_Veronese"
   },
   {
-    "name": "Verde agua",
-    "hex": "#87e79e",
-    "link": "https://es.wikipedia.org/wiki/Verde#Otros_verdes_azulados"
-  },
-  {
-    "name": "Verde amarillo",
-    "hex": "#c6ce00",
-    "link": "https://es.wikipedia.org/wiki/Verde_amarillo"
-  },
-  {
-    "name": "Verde azulado",
-    "hex": "#009a79",
-    "link": "https://es.wikipedia.org/wiki/Azul_verde#Comparación_con_colores_próximos"
-  },
-  {
-    "name": "Verde bosque",
-    "hex": "#228b22",
-    "link": "https://es.wikipedia.org/wiki/Verde_bosque"
-  },
-  {
-    "name": "Verde botella",
-    "hex": "#1b4d3e",
-    "link": "https://es.wikipedia.org/wiki/Verde#Otros_verdes_azulados"
-  },
-  {
-    "name": "Verde británico de carreras",
-    "hex": "#004225",
-    "link": "https://es.wikipedia.org/wiki/British_racing_green"
-  },
-  {
-    "name": "Verde ceniza",
-    "hex": "#5f7f7a",
-    "link": "https://es.wikipedia.org/wiki/Verde_ceniza"
-  },
-  {
-    "name": "Verde cian",
-    "hex": "#00ff99",
-    "link": "https://es.wikipedia.org/wiki/Verde_cian"
-  },
-  {
-    "name": "Verde claro",
-    "hex": "#98ff98",
-    "link": "https://es.wikipedia.org/wiki/Verde#Otros"
-  },
-  {
     "name": "Verde de París o de Schweinfurt",
     "hex": "#009966",
     "link": "https://es.wikipedia.org/wiki/Verde_de_Par%C3%ADs"
   },
   {
-    "name": "Verde esmeralda",
-    "hex": "#019a76",
-    "link": "https://es.wikipedia.org/wiki/Verde_esmeralda"
-  },
-  {
-    "name": "Verde ftalo",
-    "hex": "#0f4f41",
-    "link": "https://es.wikipedia.org/wiki/Ftalocianina"
-  },
-  {
-    "name": "Verde limón",
-    "hex": "#c0fe01",
-    "link": "https://es.wikipedia.org/wiki/Lima_(color)"
-  },
-  {
-    "name": "Verde loro",
-    "hex": "#52b830",
-    "link": "https://es.wikipedia.org/wiki/Verde#Otros"
-  },
-  {
-    "name": "Verde manzana",
-    "hex": "#8db600",
-    "link": "https://es.wikipedia.org/wiki/Verde_amarillo#Otros_ejemplos_verde-amarillos"
-  },
-  {
-    "name": "Verde mar",
-    "hex": "#2e8b57",
-    "link": "https://es.wikipedia.org/wiki/Verde#Verdes_azulados"
-  },
-  {
-    "name": "Verde menta",
-    "hex": "#9bfad0",
-    "link": "https://es.wikipedia.org/wiki/Verde_menta"
-  },
-  {
-    "name": "Verde militar",
-    "hex": "#86895d",
-    "link": "https://es.wikipedia.org/wiki/Verde_oliva"
-  },
-  {
-    "name": "Verde oliva",
-    "hex": "#9b933b",
-    "link": "https://es.wikipedia.org/wiki/Verde_oliva#Ejemplos_y_colores_relacionados"
-  },
-  {
-    "name": "Verde oscuro",
-    "hex": "#006400",
-    "link": "https://es.wikipedia.org/wiki/Verde#Otros"
-  },
-  {
-    "name": "Verde petróleo",
-    "hex": "#173f35",
-    "link": "https://es.wikipedia.org/wiki/Verde#Otros_verdes_azulados"
-  },
-  {
-    "name": "Verde primavera",
-    "hex": "#00ff7f",
-    "link": "https://es.wikipedia.org/wiki/Verde_primavera"
-  },
-  {
-    "name": "Verde turquesa",
-    "hex": "#49b675",
-    "link": "https://es.wikipedia.org/wiki/Turquesa_(color)#Ejemplos_de_coloraciones_turquesas"
-  },
-  {
-    "name": "Verdete, verdín o verdigrís",
+    "name": "Verdete, Verdín o Verdigrís",
     "hex": "#6ec2af",
     "link": "https://es.wikipedia.org/wiki/Cardenillo"
   },
   {
-    "name": "Vino o vinotinto",
+    "name": "Vino o Vinotinto",
     "hex": "#57080d",
     "link": "https://es.wikipedia.org/wiki/Vino_(color)"
   },
@@ -1635,12 +1635,12 @@
     "link": "https://es.wikipedia.org/wiki/Gris#Muestras_grises"
   },
   {
-    "name": "Ámbar",
+    "name": "ÁMbar",
     "hex": "#ffbf00",
     "link": "https://es.wikipedia.org/wiki/%C3%81mbar_(color)"
   },
   {
-    "name": "Ébano",
+    "name": "ÉBano",
     "hex": "#37312b",
     "link": "https://es.wikipedia.org/wiki/Negro_(color)#Ejemplos_de_coloraciones_negras"
   }
