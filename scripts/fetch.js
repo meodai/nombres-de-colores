@@ -9,13 +9,25 @@ const userColors = JSON.parse(
 const rgbconv = converter('rgb');
 
 // generated using chat gpt need help from a native speaker
-function toSpanishTitleCase(inputString) { 
-  const smallWords = /^(y|e|u|o|a|en|de|del|las|los|con)$/i;
-  return inputString.replace(/\b\p{L}+\b/gu, (word) =>
-    smallWords.test(word) ? word : word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()
-  );
+function toSpanishTitleCase(title) {
+    const smallWords = /^(y|e|u|o|a|en|de|del|las|los|con)$/i;
+  
+    function capitalizeFirstWord(word) {
+        return word.charAt(0).toUpperCase() + word.slice(1).toLowerCase();
+    }
+  
+    function processWord(word, index) {
+        return (index === 0 || !smallWords.test(word.toLowerCase())) ?
+            capitalizeFirstWord(word) :
+            word.toLowerCase();
+    }
+  
+    const titleWords = title.split(/\s+/);
+    const processedWords = titleWords.map(processWord);
+    const result = processedWords.join(' ');
+  
+    return result;
 }
-
 
 const pages = [
   {
