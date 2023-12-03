@@ -1,4 +1,4 @@
-# nombres-de-colores
+# Lista de Nombres de Colores
 Una lista de nombres de colores en español.
 
 ## List of Color Names 🔖 (**329**)
