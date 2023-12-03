@@ -9,6 +9,21 @@
       "name": "Hielo",
       "hex": "#a2c8d4",
       "author": "@meodai"
+    },
+    {
+      "name": "Salvia",
+      "hex": "#93a996",
+      "author": "@meodai"
+    },
+    {
+      "name": "Salvia Azulado",
+      "hex": "#245b60",
+      "author": "@meodai"
+    },
+    {
+      "name": "Ladrillo",
+      "hex": "#b22222",
+      "author": "@meodai"
     }
   ]
 }

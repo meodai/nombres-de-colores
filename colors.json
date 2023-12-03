@@ -840,6 +840,11 @@
     "link": "https://es.wikipedia.org/wiki/Rojo#Ejemplos_de_coloraciones_rojas"
   },
   {
+    "name": "Ladrillo",
+    "hex": "#b22222",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+  },
+  {
     "name": "Lapislázuli",
     "hex": "#4374b9",
     "link": "https://es.wikipedia.org/wiki/Lapisl%C3%A1zuli"
@@ -1358,6 +1363,16 @@
     "name": "Salmón",
     "hex": "#f28773",
     "link": "https://es.wikipedia.org/wiki/Salm%C3%B3n_(color)"
+  },
+  {
+    "name": "Salvia",
+    "hex": "#93a996",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+  },
+  {
+    "name": "Salvia Azulado",
+    "hex": "#245b60",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
   },
   {
     "name": "Sangría",
