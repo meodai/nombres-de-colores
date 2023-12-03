@@ -6,6 +6,14 @@ const userColors = JSON.parse(
   fs.readFileSync(path.normalize('src/userCreations.json'), 'utf8') 
 ).colors;
 
+const ralColors = await fetch('https://api.color.pizza/v1/?list=ral').then(r => r.json());
+
+const ralColorsInSpanish = ralColors.colors.map(c => {return {
+  name: c.meta.spanish,
+  hex: c.hex,
+  link: `https://gist.github.com/lunohodov/1995178`,
+}});
+
 const rgbconv = converter('rgb');
 
 // generated using chat gpt need help from a native speaker
@@ -71,8 +79,7 @@ const pages = [
   },
 ];
 
-
-let colors = [];
+let colors = [...ralColorsInSpanish];
 
 userColors.forEach(color => {
   colors.push({
