@@ -1,3 +1,14 @@
 {
-  "colors": []
+  "colors": [
+    {
+      "name": "Habano",
+      "hex": "#844e34",
+      "author": "@meodai"
+    },
+    {
+      "name": "Hielo",
+      "hex": "#a2c8d4",
+      "author": "@meodai"
+    }
+  ]
 }
