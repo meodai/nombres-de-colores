@@ -410,7 +410,7 @@
     "link": "https://es.wikipedia.org/wiki/Blanco_navajo"
   },
   {
-    "name": "Blanco de Zinc Cinc",
+    "name": "Blanco de Zinc/cinc",
     "hex": "#fafbfd",
     "link": "https://es.wikipedia.org/wiki/Blanco_de_cinc"
   },
@@ -583,6 +583,11 @@
     "name": "Chocolate",
     "hex": "#7b3f00",
     "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n#Chocolate"
+  },
+  {
+    "name": "Chocolate Magico",
+    "hex": "#4a2c2a",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
   },
   {
     "name": "Cian",
@@ -842,6 +847,11 @@
   {
     "name": "Ladrillo",
     "hex": "#b22222",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+  },
+  {
+    "name": "Ladrillo Oscuro",
+    "hex": "#443229",
     "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
   },
   {
@@ -1600,7 +1610,7 @@
     "link": "https://es.wikipedia.org/wiki/Viol%C3%ADn_(color)"
   },
   {
-    "name": "Viridián Veridian",
+    "name": "Viridián/veridian",
     "hex": "#007f5c",
     "link": "https://es.wikipedia.org/w/index.php?title=Viridi%C3%A1n/Veridian&action=edit&redlink=1"
   },

@@ -24,6 +24,16 @@
       "name": "Ladrillo",
       "hex": "#b22222",
       "author": "@meodai"
+    },
+    {
+      "name": "Ladrillo Oscuro",
+      "hex": "#443229",
+      "author": "@meodai"
+    },
+    {
+      "name": "Chocolate Magico",
+      "hex": "#4a2c2a",
+      "author": "@meodai"
     }
   ]
 }
