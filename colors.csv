@@ -95,6 +95,7 @@ Azul Oceano,#1d334a,https://gist.github.com/lunohodov/1995178
 Azul Olombino,#606e8c,https://gist.github.com/lunohodov/1995178
 Azul Pastel,#5d9b9b,https://gist.github.com/lunohodov/1995178
 Azul Persa,#1c39bb,https://es.wikipedia.org/wiki/Azul#Tipos_de_azules
+Azul Porcelana,#436b95,https://es.wikipedia.org/wiki/Azul#Tipos_de_azules
 Azul Púrpura,#4c2882,https://es.wikipedia.org/wiki/Azul_p%C3%BArpura
 Azul Real,#00416a,https://es.wikipedia.org/wiki/Azul#Tipos_de_azules
 Azul Señales,#1e2460,https://gist.github.com/lunohodov/1995178
@@ -139,6 +140,7 @@ Borravino,#56070c,https://es.wikipedia.org/wiki/Borravino
 Bronce,#cd7f32,https://es.wikipedia.org/wiki/Marr%C3%B3n#Otros_ejemplos_y_tipos_de_marrón
 Bronceado,#d2b48c,https://es.wikipedia.org/wiki/Bronceado_(color)
 Burdeos,#641c34,https://gist.github.com/lunohodov/1995178
+Burdeos Oscuro,#651d35,https://github.com/meodai/noms-de-couleur/#authors-@lmuntaner
 Burdeos o Bordó,#96305a,https://es.wikipedia.org/wiki/Burdeos_(color)
 Bígaro,#ccccff,https://es.wikipedia.org/wiki/B%C3%ADgaro_(color)
 Café,#591f0b,https://es.wikipedia.org/wiki/Marr%C3%B3n#Café
@@ -192,10 +194,6 @@ Encaje Antiguo,#fdf5e6,https://es.wikipedia.org/wiki/Encaje_antiguo
 Escarlata,#fd2d1c,https://es.wikipedia.org/wiki/Escarlata_(color)
 Esmeralda,#009975,https://es.wikipedia.org/wiki/Esmeralda_(color)
 Espinaca,#4a5d23,https://es.wikipedia.org/wiki/Verde#Verdes_amarillentos
-Fandango,#b53389,https://es.wikipedia.org/wiki/Rojo_p%C3%BArpura#Ejemplos_de_rojo_púrpura
-Feldgrau,#59646a,https://es.wikipedia.org/wiki/Feldgrau
-Frambuesa,#e62c58,https://es.wikipedia.org/wiki/Frambuesa_(color)
-Fucsia,#ff0080,https://es.wikipedia.org/wiki/Fucsia
 Gamuza,#e8bd85,https://es.wikipedia.org/wiki/Gamuza_(color)
 Gencian Perlado,#2a6478,https://gist.github.com/lunohodov/1995178
 Geranio,#e52d33,https://es.wikipedia.org/wiki/Rojo#Ejemplos_de_coloraciones_rojas
@@ -247,16 +245,18 @@ Gris Tráfico B,#4e5452,https://gist.github.com/lunohodov/1995178
 Gris Tráfico a,#8d948d,https://gist.github.com/lunohodov/1995178
 Gris Ventana,#9da1aa,https://gist.github.com/lunohodov/1995178
 Gris Verdoso,#4d5645,https://gist.github.com/lunohodov/1995178
+Gris de Campaña,#59646a,https://es.wikipedia.org/wiki/Feldgrau
 Gris de Davy,#565656,https://es.wikipedia.org/wiki/Gris_de_Davy
 Gris de Payne,#536878,https://es.wikipedia.org/wiki/Gris_de_Payne
 Gris Ágata,#b5b8b1,https://gist.github.com/lunohodov/1995178
 Gualda o Gualdo,#fabd00,https://es.wikipedia.org/wiki/Oro_(color)#Coloraciones_doradas
 Guinda,#952f57,https://es.wikipedia.org/wiki/Guinda_(color)
-Gules,#f00909,https://es.wikipedia.org/wiki/Esmalte_(her%C3%A1ldica)#Códigos_de_color_RGB_y_CYMK
+Gules,#f00909,https://es.wikipedia.org/wiki/Gules
 Guta o Gutagamba,#e49b0f,https://es.wikipedia.org/wiki/Gutagamba
 Habano,#844e34,https://github.com/meodai/noms-de-couleur/#authors-@meodai
 Herrumbre,#a2522b,https://es.wikipedia.org/wiki/Herrumbre_(color)
 Hielo,#a2c8d4,https://github.com/meodai/noms-de-couleur/#authors-@meodai
+Hojaldre,#fde7b6,https://github.com/meodai/noms-de-couleur/#authors-@lmuntaner
 Hueso,#e3dac9,https://es.wikipedia.org/wiki/Blanco#Variedades_del_blanco
 Humo,#92a4b1,https://es.wikipedia.org/wiki/Gris#Muestras_grises
 Hígado,#891e35,https://es.wikipedia.org/wiki/H%C3%ADgado_(color)
@@ -289,13 +289,14 @@ Mamey,#f06030,https://es.wikipedia.org/wiki/Rojo_naranja#Muestras_rojo_anaranjad
 Mandarina,#ed872d,https://es.wikipedia.org/wiki/Naranja_(color)#Ejemplos_de_colores_anaranjados
 Marfil,#e1cc4f,https://gist.github.com/lunohodov/1995178
 Marfil Claro,#e6d690,https://gist.github.com/lunohodov/1995178
+Marron Castaño,#643b35,https://gist.github.com/lunohodov/1995178
 Marrón,#993300,https://es.wikipedia.org/wiki/Marr%C3%B3n
 Marrón Cuero,#97572b,https://es.wikipedia.org/wiki/Marr%C3%B3n#Otros_ejemplos_y_tipos_de_marrón
 Marrón Dorado,#996515,https://es.wikipedia.org/wiki/Marr%C3%B3n#Otros_ejemplos_y_tipos_de_marrón
 Marrón Señales,#6c3b2a,https://gist.github.com/lunohodov/1995178
 Marrón Tierra,#4e3b31,https://gist.github.com/lunohodov/1995178
 Maíz,#fced5e,https://es.wikipedia.org/wiki/Ma%C3%ADz_(color)
-Melocotón,#fde7b6,https://es.wikipedia.org/wiki/Durazno_(color)
+Melocotón,#fce8b7,https://es.wikipedia.org/wiki/Durazno_(color)
 Melón,#fbca7f,https://es.wikipedia.org/wiki/Mel%C3%B3n_(color)
 Menta,#bff7dc,https://es.wikipedia.org/wiki/Menta_(color)
 Miel,#d29340,https://es.wikipedia.org/wiki/Marr%C3%B3n#Otros_ejemplos_y_tipos_de_marrón
@@ -314,6 +315,7 @@ Naranja Perlado,#c35831,https://gist.github.com/lunohodov/1995178
 Naranja Persa,#d99058,https://es.wikipedia.org/wiki/Naranja_persa
 Naranja Puro,#f44611,https://gist.github.com/lunohodov/1995178
 Naranja Pálido,#ff7514,https://gist.github.com/lunohodov/1995178
+Naranja Rojizo,#fe6448,https://es.wikipedia.org/wiki/Naranja_(color)
 Naranja Salmón,#e55137,https://gist.github.com/lunohodov/1995178
 Naranja Sanguineo,#cb2821,https://gist.github.com/lunohodov/1995178
 Naranja Señales,#d84b20,https://gist.github.com/lunohodov/1995178
@@ -366,7 +368,7 @@ Pizarra,#5d6770,https://es.wikipedia.org/wiki/Pizarra_(color)
 Plata o Plateado,#c0c0c0,https://es.wikipedia.org/wiki/Plata_(color)
 Platino,#e5e4e2,https://es.wikipedia.org/wiki/Gris#Muestras_grises
 Plomo,#575757,https://es.wikipedia.org/wiki/Plomo_(color)
-Porcelana,#436b95,https://es.wikipedia.org/wiki/Azul#Tipos_de_azules
+Porcelana,#446c96,https://es.wikipedia.org/wiki/Azul#Tipos_de_azules
 Porráceo,#245338,https://es.wikipedia.org/wiki/Verde#Verdes_agrisados
 Puerro,#cbc65d,https://es.wikipedia.org/wiki/Verde_amarillo#Otros_ejemplos_verde-amarillos
 Punzó,#e62e11,https://es.wikipedia.org/wiki/Punz%C3%B3
@@ -376,8 +378,6 @@ Púrpura Eléctrico,#cc00ff,https://es.wikipedia.org/wiki/P%C3%BArpura#Púrpura_
 Púrpura Francés,#9e0e40,https://es.wikipedia.org/wiki/P%C3%BArpura#Púrpura_en_francés
 Púrpura de Tiro,#7b236d,https://es.wikipedia.org/wiki/P%C3%BArpura_de_Tiro
 Púrpurá Tráfico,#a03472,https://gist.github.com/lunohodov/1995178
-Quercitrón,#e5b03d,https://es.wikipedia.org/wiki/Quercitr%C3%B3n
-Quermes,#c42d45,https://es.wikipedia.org/wiki/Kermes_(pigmento)
 Rojo,#e60026,https://es.wikipedia.org/wiki/Rojo
 Rojo Anaranjado,#c93c20,https://gist.github.com/lunohodov/1995178
 Rojo Beige,#c1876b,https://gist.github.com/lunohodov/1995178
@@ -429,6 +429,7 @@ Rosa Naranja,#ff9966,https://es.wikipedia.org/wiki/Rosa_naranja
 Rosa Perlado,#b44c43,https://gist.github.com/lunohodov/1995178
 Rosa Shocking,#fc0fc0,https://es.wikipedia.org/wiki/Rosa_shocking
 Rosa o Rosado,#ffc0cb,https://es.wikipedia.org/wiki/Rosa_(color)
+Rosado Claro,#fec1cc,https://es.wikipedia.org/wiki/Rosa_(color)#Ejemplos_del_color_rosado
 Rubí,#e0115f,https://es.wikipedia.org/wiki/Rojo#Ejemplos_de_coloraciones_rojas
 Rufo,#cc6e52,https://es.wikipedia.org/wiki/Rufo_(color)
 Salmón,#f28773,https://es.wikipedia.org/wiki/Salm%C3%B3n_(color)
@@ -443,7 +444,6 @@ Sinople,#008c00,https://es.wikipedia.org/wiki/Esmalte_(her%C3%A1ldica)#Códigos_
 Teja,#b94841,https://es.wikipedia.org/wiki/Rojo#Ejemplos_de_coloraciones_rojas
 Tomate,#ff6347,https://es.wikipedia.org/wiki/Tomate_(color)
 Torcaza o Topo,#87794e,https://es.wikipedia.org/wiki/Gris#Muestras_grises
-Toronja,#fe6448,https://es.wikipedia.org/w/index.php?title=Toronja_(color)&action=edit&redlink=1
 Trigo,#f5deb3,https://es.wikipedia.org/wiki/Trigo_(color)
 Turquesa,#40e0d0,https://es.wikipedia.org/wiki/Turquesa_(color)
 Turquesa Menta,#497e76,https://gist.github.com/lunohodov/1995178
@@ -510,7 +510,8 @@ Violeta Púrpura,#4a192c,https://gist.github.com/lunohodov/1995178
 Violeta Señales,#924e7d,https://gist.github.com/lunohodov/1995178
 Violeta Érica,#de4c8a,https://gist.github.com/lunohodov/1995178
 Violín,#a10684,https://es.wikipedia.org/wiki/Viol%C3%ADn_(color)
-Viridián/veridian,#007f5c,https://es.wikipedia.org/w/index.php?title=Viridi%C3%A1n/Veridian&action=edit&redlink=1
+Viridián,#007f5c,https://es.wikipedia.org/wiki/Viridi%C3%A1n
+Viridián/veridian,#01805d,https://es.wikipedia.org/w/index.php?title=Viridi%C3%A1n/Veridian&action=edit&redlink=1
 Wasabi,#afd77f,https://es.wikipedia.org/wiki/Verde_amarillo#Otros_ejemplos_verde-amarillos
 Wengué,#3d2e2c,https://es.wikipedia.org/wiki/Wengu%C3%A9_(color)
 Wisteria,#c9a0dc,https://es.wikipedia.org/wiki/Wisteria_(color)

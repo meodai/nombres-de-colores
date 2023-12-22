@@ -480,6 +480,11 @@
     "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules"
   },
   {
+    "name": "Azul Porcelana",
+    "hex": "#436b95",
+    "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules"
+  },
+  {
     "name": "Azul Púrpura",
     "hex": "#4c2882",
     "link": "https://es.wikipedia.org/wiki/Azul_p%C3%BArpura"
@@ -698,6 +703,11 @@
     "name": "Burdeos",
     "hex": "#641c34",
     "link": "https://gist.github.com/lunohodov/1995178"
+  },
+  {
+    "name": "Burdeos Oscuro",
+    "hex": "#651d35",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@lmuntaner"
   },
   {
     "name": "Burdeos o Bordó",
@@ -965,26 +975,6 @@
     "link": "https://es.wikipedia.org/wiki/Verde#Verdes_amarillentos"
   },
   {
-    "name": "Fandango",
-    "hex": "#b53389",
-    "link": "https://es.wikipedia.org/wiki/Rojo_p%C3%BArpura#Ejemplos_de_rojo_púrpura"
-  },
-  {
-    "name": "Feldgrau",
-    "hex": "#59646a",
-    "link": "https://es.wikipedia.org/wiki/Feldgrau"
-  },
-  {
-    "name": "Frambuesa",
-    "hex": "#e62c58",
-    "link": "https://es.wikipedia.org/wiki/Frambuesa_(color)"
-  },
-  {
-    "name": "Fucsia",
-    "hex": "#ff0080",
-    "link": "https://es.wikipedia.org/wiki/Fucsia"
-  },
-  {
     "name": "Gamuza",
     "hex": "#e8bd85",
     "link": "https://es.wikipedia.org/wiki/Gamuza_(color)"
@@ -1240,6 +1230,11 @@
     "link": "https://gist.github.com/lunohodov/1995178"
   },
   {
+    "name": "Gris de Campaña",
+    "hex": "#59646a",
+    "link": "https://es.wikipedia.org/wiki/Feldgrau"
+  },
+  {
     "name": "Gris de Davy",
     "hex": "#565656",
     "link": "https://es.wikipedia.org/wiki/Gris_de_Davy"
@@ -1267,7 +1262,7 @@
   {
     "name": "Gules",
     "hex": "#f00909",
-    "link": "https://es.wikipedia.org/wiki/Esmalte_(her%C3%A1ldica)#Códigos_de_color_RGB_y_CYMK"
+    "link": "https://es.wikipedia.org/wiki/Gules"
   },
   {
     "name": "Guta o Gutagamba",
@@ -1288,6 +1283,11 @@
     "name": "Hielo",
     "hex": "#a2c8d4",
     "link": "https://github.com/meodai/noms-de-couleur/#authors-@meodai"
+  },
+  {
+    "name": "Hojaldre",
+    "hex": "#fde7b6",
+    "link": "https://github.com/meodai/noms-de-couleur/#authors-@lmuntaner"
   },
   {
     "name": "Hueso",
@@ -1450,6 +1450,11 @@
     "link": "https://gist.github.com/lunohodov/1995178"
   },
   {
+    "name": "Marron Castaño",
+    "hex": "#643b35",
+    "link": "https://gist.github.com/lunohodov/1995178"
+  },
+  {
     "name": "Marrón",
     "hex": "#993300",
     "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n"
@@ -1481,7 +1486,7 @@
   },
   {
     "name": "Melocotón",
-    "hex": "#fde7b6",
+    "hex": "#fce8b7",
     "link": "https://es.wikipedia.org/wiki/Durazno_(color)"
   },
   {
@@ -1573,6 +1578,11 @@
     "name": "Naranja Pálido",
     "hex": "#ff7514",
     "link": "https://gist.github.com/lunohodov/1995178"
+  },
+  {
+    "name": "Naranja Rojizo",
+    "hex": "#fe6448",
+    "link": "https://es.wikipedia.org/wiki/Naranja_(color)"
   },
   {
     "name": "Naranja Salmón",
@@ -1836,7 +1846,7 @@
   },
   {
     "name": "Porcelana",
-    "hex": "#436b95",
+    "hex": "#446c96",
     "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules"
   },
   {
@@ -1883,16 +1893,6 @@
     "name": "Púrpurá Tráfico",
     "hex": "#a03472",
     "link": "https://gist.github.com/lunohodov/1995178"
-  },
-  {
-    "name": "Quercitrón",
-    "hex": "#e5b03d",
-    "link": "https://es.wikipedia.org/wiki/Quercitr%C3%B3n"
-  },
-  {
-    "name": "Quermes",
-    "hex": "#c42d45",
-    "link": "https://es.wikipedia.org/wiki/Kermes_(pigmento)"
   },
   {
     "name": "Rojo",
@@ -2150,6 +2150,11 @@
     "link": "https://es.wikipedia.org/wiki/Rosa_(color)"
   },
   {
+    "name": "Rosado Claro",
+    "hex": "#fec1cc",
+    "link": "https://es.wikipedia.org/wiki/Rosa_(color)#Ejemplos_del_color_rosado"
+  },
+  {
     "name": "Rubí",
     "hex": "#e0115f",
     "link": "https://es.wikipedia.org/wiki/Rojo#Ejemplos_de_coloraciones_rojas"
@@ -2218,11 +2223,6 @@
     "name": "Torcaza o Topo",
     "hex": "#87794e",
     "link": "https://es.wikipedia.org/wiki/Gris#Muestras_grises"
-  },
-  {
-    "name": "Toronja",
-    "hex": "#fe6448",
-    "link": "https://es.wikipedia.org/w/index.php?title=Toronja_(color)&action=edit&redlink=1"
   },
   {
     "name": "Trigo",
@@ -2555,8 +2555,13 @@
     "link": "https://es.wikipedia.org/wiki/Viol%C3%ADn_(color)"
   },
   {
-    "name": "Viridián/veridian",
+    "name": "Viridián",
     "hex": "#007f5c",
+    "link": "https://es.wikipedia.org/wiki/Viridi%C3%A1n"
+  },
+  {
+    "name": "Viridián/veridian",
+    "hex": "#01805d",
     "link": "https://es.wikipedia.org/w/index.php?title=Viridi%C3%A1n/Veridian&action=edit&redlink=1"
   },
   {

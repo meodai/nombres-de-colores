@@ -1,6 +1,63 @@
 {
   "colors": [
     {
+      "name": "Burdeos oscuro",
+      "hex": "#641c34",
+      "author": "@lmuntaner"
+    },
+    {
+      "name": "Burdeos",
+      "hex": "#96305a",
+      "link": "https://es.wikipedia.org/wiki/Burdeos_(color)",
+      "author": "@lmuntaner"
+    },
+    {
+      "name": "Marron Castaño",
+      "hex": "#633a34",
+      "link": "https://gist.github.com/lunohodov/1995178",
+      "author": "@lmuntaner"
+    },
+    {
+      "name": "Hojaldre",
+      "hex": "#ffe5b4",
+      "author": "@lmuntaner"
+    },
+    {
+      "name": "Gris de Campaña",
+      "hex": "#59646a",
+      "link": "https://es.wikipedia.org/wiki/Feldgrau",
+      "author": "@lmuntaner"
+    },
+    {
+      "name": "Azul Porcelana",
+      "hex": "#436b95",
+      "link": "https://es.wikipedia.org/wiki/Azul#Tipos_de_azules",
+      "author": "@lmuntaner"
+    },
+    {
+      "name": "Rosado Claro",
+      "hex": "#ffc0cb",
+      "link": "https://es.wikipedia.org/wiki/Rosa_(color)#Ejemplos_del_color_rosado",
+      "author": "@lmuntaner"
+    },
+    {
+      "name": "Viridián",
+      "hex": "#007f5c",
+      "link": "https://es.wikipedia.org/wiki/Viridi%C3%A1n",
+      "author": "@lmuntaner"
+    },
+    {
+      "name": "Naranja Rojizo",
+      "hex": "#fe6448",
+      "link": "https://es.wikipedia.org/wiki/Naranja_(color)",
+      "author": "@lmuntaner"
+    },
+    {
+      "name": "Gules",
+      "hex": "#f00909",
+      "link": "https://es.wikipedia.org/wiki/Gules"
+    },
+    {
       "name": "Habano",
       "hex": "#844e34",
       "author": "@meodai"

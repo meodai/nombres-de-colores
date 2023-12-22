@@ -1,6 +1,6 @@
 # Lista de Nombres de Colores
 Una lista de nombres de colores en español.
 
-## List of Color Names 🔖 (**520**)
+## List of Color Names 🔖 (**521**)
 
-![Toutes les couleurs](colors.svg "Lista de nombres de colores")
+![lsita de colres](colors.svg "Lista de nombres de colores")
