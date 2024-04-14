@@ -546,7 +546,7 @@
   },
   {
     "name": "Azur",
-    "hex": "#007fff",
+    "hex": "#0080ff",
     "link": "https://es.wikipedia.org/wiki/Azur#El_color_azur_en_la_actualidad"
   },
   {
@@ -756,7 +756,7 @@
   },
   {
     "name": "Caqui",
-    "hex": "#c3b091",
+    "hex": "#dfc38a",
     "link": "https://es.wikipedia.org/wiki/Caqui_(color)"
   },
   {
@@ -811,7 +811,7 @@
   },
   {
     "name": "Castaña o Castaño",
-    "hex": "#954535",
+    "hex": "#773525",
     "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n#Castaño_y_castaña"
   },
   {
@@ -841,7 +841,7 @@
   },
   {
     "name": "Cerúleo",
-    "hex": "#02a4d3",
+    "hex": "#0098d5",
     "link": "https://es.wikipedia.org/wiki/Cer%C3%BAleo"
   },
   {
@@ -921,7 +921,7 @@
   },
   {
     "name": "Crema",
-    "hex": "#fffdd0",
+    "hex": "#fff0c9",
     "link": "https://es.wikipedia.org/wiki/Crema_(color)"
   },
   {
@@ -973,6 +973,26 @@
     "name": "Espinaca",
     "hex": "#4a5d23",
     "link": "https://es.wikipedia.org/wiki/Verde#Verdes_amarillentos"
+  },
+  {
+    "name": "Fandango",
+    "hex": "#b53389",
+    "link": "https://es.wikipedia.org/wiki/Rojo_p%C3%BArpura#Ejemplos_de_rojo_púrpura"
+  },
+  {
+    "name": "Feldgrau",
+    "hex": "#59646a",
+    "link": "https://es.wikipedia.org/wiki/Feldgrau"
+  },
+  {
+    "name": "Frambuesa",
+    "hex": "#e62c58",
+    "link": "https://es.wikipedia.org/wiki/Frambuesa_(color)"
+  },
+  {
+    "name": "Fucsia",
+    "hex": "#ff0080",
+    "link": "https://es.wikipedia.org/wiki/Fucsia"
   },
   {
     "name": "Gamuza",
@@ -1231,7 +1251,7 @@
   },
   {
     "name": "Gris de Campaña",
-    "hex": "#59646a",
+    "hex": "#5a656b",
     "link": "https://es.wikipedia.org/wiki/Feldgrau"
   },
   {
@@ -1450,14 +1470,14 @@
     "link": "https://gist.github.com/lunohodov/1995178"
   },
   {
+    "name": "Marmol",
+    "hex": "#993300",
+    "link": "https://es.wikipedia.org/wiki/Marmol"
+  },
+  {
     "name": "Marron Castaño",
     "hex": "#643b35",
     "link": "https://gist.github.com/lunohodov/1995178"
-  },
-  {
-    "name": "Marrón",
-    "hex": "#993300",
-    "link": "https://es.wikipedia.org/wiki/Marr%C3%B3n"
   },
   {
     "name": "Marrón Cuero",
@@ -1511,7 +1531,7 @@
   },
   {
     "name": "Morado",
-    "hex": "#c54b8c",
+    "hex": "#a349a4",
     "link": "https://es.wikipedia.org/wiki/Morado"
   },
   {
@@ -1895,6 +1915,16 @@
     "link": "https://gist.github.com/lunohodov/1995178"
   },
   {
+    "name": "Quercitrón",
+    "hex": "#e5b03d",
+    "link": "https://es.wikipedia.org/wiki/Quercitr%C3%B3n"
+  },
+  {
+    "name": "Quermes",
+    "hex": "#c42d45",
+    "link": "https://es.wikipedia.org/wiki/Kermes_(pigmento)"
+  },
+  {
     "name": "Rojo",
     "hex": "#e60026",
     "link": "https://es.wikipedia.org/wiki/Rojo"
@@ -2255,6 +2285,16 @@
     "link": "https://es.wikipedia.org/wiki/Verde_amarillo#Otros_ejemplos_verde-amarillos"
   },
   {
+    "name": "Ultramar",
+    "hex": "#4374b9",
+    "link": "https://es.wikipedia.org/wiki/Azul_ultramar"
+  },
+  {
+    "name": "Uva",
+    "hex": "#2f2140",
+    "link": "https://es.wikipedia.org/wiki/Violeta_(color)#Variedad_de_violetas"
+  },
+  {
     "name": "Vainilla",
     "hex": "#f4e6ac",
     "link": "https://es.wikipedia.org/wiki/Crema_(color)#Coloraciones_similares"
@@ -2578,6 +2618,26 @@
     "name": "Wisteria",
     "hex": "#c9a0dc",
     "link": "https://es.wikipedia.org/wiki/Wisteria_(color)"
+  },
+  {
+    "name": "Xanadú",
+    "hex": "#738678",
+    "link": "https://es.wikipedia.org/wiki/Gris#Muestras_grises"
+  },
+  {
+    "name": "Xántico",
+    "hex": "#f49531",
+    "link": "https://es.wikipedia.org/wiki/X%C3%A1ntico"
+  },
+  {
+    "name": "Yema",
+    "hex": "#ffe600",
+    "link": "https://es.wikipedia.org/wiki/Amarillo_naranja#Coloraciones_amarillo-naranjas"
+  },
+  {
+    "name": "Yeso",
+    "hex": "#ebe9e4",
+    "link": "https://es.wikipedia.org/wiki/Blanco#Variedades_del_blanco"
   },
   {
     "name": "Zafiro",
